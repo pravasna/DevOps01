@@ -1,7 +1,7 @@
 #!/bin/bash
 
 help() {
-    echo "Please provide an argument"
+    echo "Usage:"
     echo "eg-1: sh devops01b.sh -volumes"
     echo "eg-2: sh devops01b.sh -cpu"
     echo "eg-3: sh devops01b.sh -ram"
