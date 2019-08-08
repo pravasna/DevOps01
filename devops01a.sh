@@ -19,3 +19,4 @@ curl ifconfig.me
 # MAC Address (NOTE This will work only on MAC), 
 ifconfig -a
  # For Mac - networksetup -listallhardwareports 
+# Pre-Commit Message
